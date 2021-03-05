@@ -1,0 +1,7 @@
+name: KMCAntyLogout
+main: me.kamicjusz.antylogout.Main
+api-version: 1.16
+author: Kamicjusz
+version: 1.0
+prefix: KMCAntyLogout
+depend: [WorldGuard]
